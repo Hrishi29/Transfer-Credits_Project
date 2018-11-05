@@ -9,5 +9,6 @@ Languages and Dependencies:
 * Cron
 * Jquery Datatables
 * JavaScript
+* PHP
 * HTML/CSS
 * JSON
