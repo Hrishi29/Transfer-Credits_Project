@@ -8,6 +8,7 @@ Languages and Dependencies:
 * Oracle SQL Deveoper
 * Cron
 * Jquery Datatables
+* AJAX
 * JavaScript
 * PHP
 * HTML/CSS
