@@ -1,7 +1,7 @@
 # Transfer Credits Project
-The project is a website under development for the Old Dominion University. The website displays the transfer related information such as 
+The project is a production ready website [https://transfer2.odu.edu/equivalency/](https://transfer2.odu.edu/equivalency/) for the Old Dominion University. The website displays the transfer related information such as 
 Course Id, Course Name, Credits and their equivalents for the students who want to transfer credits to Old Dominion University.  
-Currently working on the project as a student software developer under **Information Technology Services, Old Dominion 
+The project was developed as a software developer under **Information Technology Services, Old Dominion 
 University.**  
 \
 Languages and Dependencies:
